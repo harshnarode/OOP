@@ -1,5 +1,6 @@
 #include<iostream>
 #include<list>
+#include<cstdlib>
 using namespace std;
 void display(list<int>&l)
 {
